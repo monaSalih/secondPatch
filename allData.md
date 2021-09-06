@@ -1,0 +1,1 @@
+mongodb+srv://monasalih:0000@cluster0.3wtrm.mongodb.net/cookExam?retryWrites=true&w=majority
